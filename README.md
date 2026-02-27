@@ -1,4 +1,4 @@
-# 안녕하세요, 유정입니다 👋
+# 안녕하세요, 이유정입니다 👋
 
 🎓 SSAFY 14기 | AI/Data 개발자 지망생  
 🌱 Vue.js · Django · Python · React 공부 중  
